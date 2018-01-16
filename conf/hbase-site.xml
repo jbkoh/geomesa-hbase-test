@@ -23,16 +23,14 @@
 <configuration>
   <property>
     <name>hbase.rootdir</name>
-    <value>file:///home/jbkoh/hbase-1.1.13/data/hbase</value>
+    <value>file:///home/jbkoh/data/hbase</value>
   </property>
   <property>
     <name>hbase.zookeeper.property.dataDir</name>
-    <value>/home/jbkoh/hbase-1.1.13/data/zookeeper</value>
+    <value>/home/jbkoh/data/zookeeper</value>
   </property>
-  <!--
   <property>
     <name>hbase.coprocessor.user.region.classes</name>
     <value>org.locationtech.geomesa.hbase.coprocessor.GeoMesaCoprocessor</value>
   </property>
-  -->
 </configuration>
