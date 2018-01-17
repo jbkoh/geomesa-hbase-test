@@ -1,4 +1,4 @@
-# Test code for Geomesa-HBase on HDInsight
+# Test code for Geomesa-HBase
 
 ### procedure
 1. Put the proper ``hbase-site.xml`` into ``./conf`` directory.
